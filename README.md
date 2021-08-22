@@ -1,6 +1,8 @@
-This is a set of three jupyter notebook tutorials for developing a basic understanding and tools of neural networks. This has been developed from multiple resources developed from others so please check the references. 
+Neural Networks Tutorial
 
-Basic installation instructions:
+This is a set of three jupyter notebook tutorials for developing a basic understanding and tools of neural networks. 
+ 
+Getting Started
 
 (0) Download and install Anaconda (Python distribution): https://www.anaconda.com/products/individual
 Save the folder NN_tutorial given in the Desktop (or someplace else). 
@@ -17,4 +19,11 @@ conda install jupyter
 jupyter notebook 
 
 (4) a browser window should open showing the NN_tutorial directory: open nn_1.ipynb. This is the first tutorial. After completion keep going with tutorial nn_2.ipynb and nn_3.ipynb. 
- 
+Author:
+Alberto Ardid
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+This has been developed from multiple resources developed from others so please check the references. 
