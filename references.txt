@@ -1,0 +1,19 @@
+Most of the material on this tutorial where taken from the following links:
+
+https://www.ibm.com/cloud/learn/neural-networks
+
+https://www.youtube.com/watch?v=YlGEQyEM_a8
+
+https://vitalflux.com/great-mind-maps-for-learning-machine-learning/
+
+https://keras.io/
+
+https://archive.ics.uci.edu/ml/index.php
+
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+https://iamtrask.github.io/
+
+https://iamtrask.github.io/2015/07/12/basic-python-network/
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
